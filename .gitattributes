@@ -1,0 +1,1 @@
+ocr/turkce_ocr/datasets/train.parquet filter=lfs diff=lfs merge=lfs -text
